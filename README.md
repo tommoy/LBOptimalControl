@@ -1,9 +1,9 @@
 # LBOptimalControl
-Fast Learning-based optimal controller for autonomous driving
+Learning-based optimal controller for autonomous driving
 
 The file "Traj_tracking" is a Node under ROS (kinetic) 
 
-The whole code in programmed for the control algorithm "Fast learning\kernel-based optimal control" in real application.
+The whole code in programmed for the control algorithm "learning-based optimal control" in real application.
 
 Mainly contains three parts, which are modeling, control scheme and Gauusian process regression(GPR).
 
